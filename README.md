@@ -1,4 +1,4 @@
-# Data-Structers-Project-1
+# Higher-Order-Paths
 A project that finds first-second-third order paths between words in various categories and documents by linked list notation within Data Structers course.
 
 ## How it works
